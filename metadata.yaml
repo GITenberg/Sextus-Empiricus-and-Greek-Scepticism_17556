@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7452
     wikipedia: http://en.wikipedia.org/wiki/Mary_Mills_Patrick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17556#Sextus-Empiricus-and-Greek-Scepticism
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2006-01-20'
 gutenberg_type: Text
